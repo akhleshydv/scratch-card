@@ -2,7 +2,7 @@
 
 An interactive scratch card experience built with React and Canvas API. Users can scratch off a green overlay to reveal a promotional offer with smooth animations and touch support.
 
-![Scratch Card Demo](./Screenshot%202025-12-01%20at%201.58.05%20PM.png)
+![Scratch Card Demo](./preview.png)
 
 ## Features
 
